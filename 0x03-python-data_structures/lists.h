@@ -8,7 +8,7 @@
  * stuct listint_s - singly linked list
  * @n: integer
  * @next:points to the next node
- * Description: singly linked list node struct for prject
+ * Description: singly linked list node struct for project
  */
 typedef struct listint_s
 {
